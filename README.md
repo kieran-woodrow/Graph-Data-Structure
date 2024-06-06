@@ -16,7 +16,7 @@ Implementation of a graph data structure
 
 ## 📚 Project Overview
 
-Implementation of a graph data structure in java
+Implementation of a graph data structure in java to solve the chinese postman problem
 
 ---
 
